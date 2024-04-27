@@ -167,7 +167,7 @@ Publish the website in the LocalHost.
 
 
 ## OUTPUT:
-C:\SEM-2\WEB APPLICATION\cover\proj6\Screenshot 2024-04-27 102226.png
+![Screenshot 2024-04-27 102226](https://github.com/sakamalesh/cover/assets/149148235/86c4226d-bcb4-441e-8db5-b452d7afaf55)
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
